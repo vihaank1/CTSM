@@ -64,4 +64,4 @@ FATES Project:
 Perturbed Parameter Experiment (PPE) Science team:
 - [Katie Dagon] (https://github.com/katiedagon)
 - [Daniel Kennedy] (https://github.com/djk2120)
-- [Linnea Hawkins] (https://github.com/linniahawkins)
+- [Linnea Hawkins] (https://github.com/linniahawkins)deliberate trailing space 
